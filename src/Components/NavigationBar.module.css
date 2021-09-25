@@ -1,0 +1,26 @@
+.navlist{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color:rgba(241, 241, 238, 0.904);
+  }
+  .navop{
+    float:right;
+    padding:16px 14px;
+  }
+  .navop:hover{
+   background-color: chartreuse;
+   cursor:pointer;
+  }
+  .myname{
+    font-weight:bold;
+    color:rgb(2, 190, 43);
+    font-size:large;
+    padding:16px 14px;
+    float:left;
+  }
+  .myname:hover{
+    text-shadow: 5px black;
+    cursor:default;
+  }
