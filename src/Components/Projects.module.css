@@ -4,4 +4,6 @@
     padding:10px;
     border: solid 3px green;
     cursor: pointer;
+    width:60%;
+    background-color: cornsilk;
 }

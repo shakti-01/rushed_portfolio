@@ -6,7 +6,7 @@ function Projects() {
     return (
         <div>
             <h1>What else can be a better way to hone your skills ?</h1>
-            <details className={styles.det}><summary>How i make my projects ?</summary>It takes a lot of effor !<br/>
+            <details className={styles.det}><summary>How i make my projects ? (click me)</summary>It takes a lot of effor !<br/>
             And you need to be really focused on your goal and decide on the plan before taking action.
             </details>
             <h3>Belows are some projects:</h3>
