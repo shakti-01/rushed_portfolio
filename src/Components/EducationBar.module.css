@@ -3,4 +3,10 @@
     height: 80px;
     margin:10px;
     padding-left:10px;
+    border: solid 2px red;
+    border-left:none;
+    border-right:none;
+    border-top:none;
+    color: rgb(180, 74, 12);
+    font-weight: bold;
 }
