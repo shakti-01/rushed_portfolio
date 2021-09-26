@@ -1,9 +1,12 @@
 .abtinfo{
     padding: 10px;
-    border: solid green 1px;
-    box-shadow: 5px 5px;
+    border: solid green 2px;
+    box-shadow: 9px 9px 9px grey;
     border-radius: 5px;
-    margin:10px;
+    margin-left:20px;
+    margin-right:400px;
+    align-self: left;
+
 }
 .rating{
     margin:10px;
@@ -17,4 +20,12 @@ button{
     color:lawngreen;
     background-color: black;
     margin-left:100px;
+    border-style: dashed;
+    border-left:none;
+    border-right: none;
+    cursor:pointer;
+}
+button:hover{
+    background-color: lawngreen;
+    color:black;
 }
